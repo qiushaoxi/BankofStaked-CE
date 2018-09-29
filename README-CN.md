@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-	<h1>Bank of Staked</h1>
-	<h2>CPU&NET 自助租赁合约</h2>
+	<h1>CPU&NET 自助租赁合约</h1>
 </div>
 
 
